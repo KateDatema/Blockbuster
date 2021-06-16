@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7A411317-E1F2-487D-816F-6F5A2A06EAAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blockbuster/BlockBusterVideo.cs">
+    <Files>
+      <File FileName="Blockbuster/IPlay.cs" Line="10" Column="57" />
+      <File FileName="Blockbuster/Movie.cs" Line="72" Column="1" />
+      <File FileName="Blockbuster/VHS.cs" Line="36" Column="17" />
+      <File FileName="Blockbuster/DVD.cs" Line="19" Column="1" />
+      <File FileName="Blockbuster/Program.cs" Line="24" Column="16" />
+      <File FileName="Blockbuster/BlockBusterVideo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blockbuster" expanded="True">
+            <Node name="Blockbuster" expanded="True">
+              <Node name="BlockBusterVideo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Blockbuster PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

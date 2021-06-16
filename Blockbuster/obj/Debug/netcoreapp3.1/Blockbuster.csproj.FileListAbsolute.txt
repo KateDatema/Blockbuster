@@ -1,13 +1,25 @@
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.exe
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.deps.json
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.json
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.dev.json
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.dll
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.pdb
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csprojAssemblyReference.cache
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfoInputs.cache
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfo.cs
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.CoreCompileInputs.cache
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.dll
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.pdb
-C:\Users\Tommy\Desktop\C# May 2021 Class Repo\Labs\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.genruntimeconfig.cache
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.exe
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.deps.json
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.runtimeconfig.json
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.runtimeconfig.dev.json
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.dll
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.pdb
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.csprojAssemblyReference.cache
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.AssemblyInfoInputs.cache
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.AssemblyInfo.cs
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.csproj.CoreCompileInputs.cache
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.dll
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.pdb
+C:/Users/Tommy/Desktop/C# May 2021 Class Repo/Labs/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.genruntimeconfig.cache
+/Users/katedatema/Projects/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.deps.json
+/Users/katedatema/Projects/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.runtimeconfig.json
+/Users/katedatema/Projects/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.runtimeconfig.dev.json
+/Users/katedatema/Projects/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.dll
+/Users/katedatema/Projects/Blockbuster/Blockbuster/bin/Debug/netcoreapp3.1/Blockbuster.pdb
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.csprojAssemblyReference.cache
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.AssemblyInfoInputs.cache
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.AssemblyInfo.cs
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.csproj.CoreCompileInputs.cache
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.dll
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.pdb
+/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/Debug/netcoreapp3.1/Blockbuster.genruntimeconfig.cache
