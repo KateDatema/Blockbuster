@@ -20,6 +20,8 @@ namespace Blockbuster
             this.Runtime = Runtime;
             this.Scenes = Scenes;
             this.MoviePlay = MoviePlay;
+
+            // ^^ Movie Play here will call the IPlay type
         }
         
         public void PrintInfo()
@@ -38,9 +40,8 @@ namespace Blockbuster
             }
         }
 
-        //Virtual == the child has the option to override the method
-        //Abstract == the child MUST override this method
-        public  void Play()
+       
+        public void Play()
         {
             MoviePlay.Play(Scenes);
         }

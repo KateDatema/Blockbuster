@@ -4,21 +4,15 @@ using System.Text;
 
 namespace Blockbuster
 {
-    //Always make classes, properties public unless to do otherwise
     public class VHS: IPlay
     {
         //We want current time to always start at 0
         //You may give properties initial values
 
         public int CurrentTime { get; set; } = 0;
-        
+       
 
-
-        public VHS() 
-        {
-         
-        }
-
+      
         public void Rewind()
         {
             CurrentTime = 0;

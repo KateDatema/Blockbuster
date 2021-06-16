@@ -7,11 +7,7 @@ namespace Blockbuster
     public class DVD : IPlay
     {
 
-        public DVD ()
-        {
-
-        }
-
+  
         public void Play(List<string> Scenes)
         {
             Console.WriteLine($"Select what scene you'd like to watch: 0 to {Scenes.Count-1}");
