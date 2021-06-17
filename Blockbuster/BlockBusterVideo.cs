@@ -60,7 +60,7 @@ namespace Blockbuster
 
             Movie m = GetMovie(index);
 
-            m.PlayWholeMovie();
+            m.Play();
         }
 
         public void PrintInfo()

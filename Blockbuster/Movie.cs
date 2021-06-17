@@ -19,9 +19,9 @@ namespace Blockbuster
             this.Category = Category;
             this.Runtime = Runtime;
             this.Scenes = Scenes;
+            //This is called a method injection
             this.MoviePlay = MoviePlay;
 
-            // ^^ Movie Play here will call the IPlay type
         }
         
         public void PrintInfo()
@@ -44,6 +44,9 @@ namespace Blockbuster
         public void Play()
         {
             MoviePlay.Play(Scenes);
+
+            //pasting in the IPlay variable, then calling the method play on it (scenes gets
+            //passed in as a parameter
         }
 
         public virtual void PlayWholeMovie()

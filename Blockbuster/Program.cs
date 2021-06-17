@@ -16,8 +16,10 @@ namespace Blockbuster
 
                 Console.WriteLine("Please Select a Movie to check out and watch from the list");
 
+
                 bv.PrintAllMovies();
 
+               
                 bv.Checkout();
 
                 GetContinue();

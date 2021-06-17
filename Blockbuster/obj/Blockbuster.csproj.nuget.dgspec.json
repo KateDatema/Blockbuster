@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/katedatema/Projects/Blockbuster/Blockbuster/Blockbuster.csproj": {}
+    "/Users/katedatema/Projects/Four/Blockbuster/Blockbuster/Blockbuster.csproj": {}
   },
   "projects": {
-    "/Users/katedatema/Projects/Blockbuster/Blockbuster/Blockbuster.csproj": {
+    "/Users/katedatema/Projects/Four/Blockbuster/Blockbuster/Blockbuster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/katedatema/Projects/Blockbuster/Blockbuster/Blockbuster.csproj",
+        "projectUniqueName": "/Users/katedatema/Projects/Four/Blockbuster/Blockbuster/Blockbuster.csproj",
         "projectName": "Blockbuster",
-        "projectPath": "/Users/katedatema/Projects/Blockbuster/Blockbuster/Blockbuster.csproj",
+        "projectPath": "/Users/katedatema/Projects/Four/Blockbuster/Blockbuster/Blockbuster.csproj",
         "packagesPath": "/Users/katedatema/.nuget/packages/",
-        "outputPath": "/Users/katedatema/Projects/Blockbuster/Blockbuster/obj/",
+        "outputPath": "/Users/katedatema/Projects/Four/Blockbuster/Blockbuster/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/katedatema/.config/NuGet/NuGet.Config"
